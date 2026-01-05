@@ -1,3 +1,5 @@
+# can be found in build/_deps/ext_std_gpu-src/cmake directory after `cmake ..` is run.
+
 
 find_path(THRUST_INCLUDE_DIR
           HINTS
